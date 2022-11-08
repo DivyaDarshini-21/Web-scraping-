@@ -1,6 +1,6 @@
 # Web-scraping-
 
-In this project we are Scraping  a website for some information about housing to rent.
+In this project we are scraping  a website for some information about housing to rent.
 
 We can export it to a csv file
 
